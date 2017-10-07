@@ -1,6 +1,39 @@
+/*
+		green: #9fc83f;
+	*/
+
 body {
-	background-color: #FAFAFA;
-	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 13px;
+    background-color: #FAFAFA;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 13px;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5 {
+    text-transform: uppercase;
+}
+h2 span, h3 span, h4 span, h4 span {
+	color: #9fc63f;
+}
+
+
+/*===========
+		Header
+	========*/
+header {
+	overflow: hidden;
+	padding: 25px 0;
+}
+header h1 {
+	background-image: url(images/logo.png);
+	height: 60px;
+	float: left;
+	overflow:hidden;
+	text-indent: 100%;
+	white-space: nowrap;
+	width: 274px;
+
+}
