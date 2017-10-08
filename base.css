@@ -25,6 +25,7 @@ h4 span {
 
 
 
+
 /*===========
 		Header
 	========*/
@@ -70,4 +71,105 @@ header nav {
 
 .main-menu a:hover {
     text-decoration: underline;
+}
+
+.content {
+    margin: 0 auto 100px auto;
+    overflow: hidden;
+    width: 960px;
+}
+
+.footer {
+    background: #fff;
+    border-top: 1px solid #e9e9e9;
+    border-bottom: 1px solid #e9e9e9;
+    clear: both;
+    overflow: hidden;
+}
+
+.footer .footer-content {
+    margin: 0 auto;
+    padding: 40px 0 20px 0;
+    overflow: hidden;
+    width: 960px;
+}
+
+.footer .footer-content>div {
+    float: left;
+    width: 40px;
+    width: 200px;
+}
+
+.footer h5 {
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+.footer p {
+    margin-bottom: 25px;
+}
+
+.social-links {}
+
+.social-links li {
+    display: inline-block;
+}
+
+.social-links a {
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: block;
+    height: 25px;
+    width: 25px;
+}
+
+.social-links .facebook {
+    background-image: url(images/facebook.png);
+}
+
+.social-links .twitter {
+    background-image: url(images/twitter.png);
+}
+
+.social-links .rss {
+    background-image: url(images/rss.png);
+}
+
+.social-linls .vimeo {
+    background-image: url(images/vimeo.png);
+}
+
+.social-links .dribble {
+    background-image: url(images/dribble.png);
+}
+
+.social-links .msn {
+    background-image: url(images/msn.png);
+}
+
+.base-footer {
+    background: #202020;
+    padding: 10px 0;
+}
+
+.base-footer .bf-content {
+    margin: 0 auto;
+    overflow: hidden;
+    width: 960px;
+}
+
+.base-footer .footer-nav {
+    float: left;
+}
+
+.base-footer .footer-nav a {
+    color: #fff;
+    padding: 0.5px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.base-footer .copy {
+    color: #fff;
+    float: right;
 }
