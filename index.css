@@ -38,6 +38,32 @@
     width: 178px;
 }
 
-.services .disk-inner {}
+.services .disk-inner {
+    background: #9fc63f;
+    height: 140px;
+    margin: 19px;
+    width: 140px;
+}
 
-.services .disk-inner>.icon {}
+.services .disk-inner>.icon {
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 140px;
+    width: 140px;
+}
+
+.services .amazing {
+    background-image: url(images/featureBin.png);
+}
+
+.services .hour {
+    background-image: url(images/telephone.png);
+}
+
+.services .web {
+    background-image: url(images/settings.png);
+}
+
+.services .mobile {
+    background-image: url(images/mobile3.png);
+}
