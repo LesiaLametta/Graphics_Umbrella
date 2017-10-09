@@ -108,3 +108,15 @@
 .portfolio-item:nth-child(2n+1) {
     margin-right: 0;
 }
+
+.portfolio-item img {
+    float: left;
+    height: 148px;
+    margin-right: 20px;
+    width: 227px;
+}
+
+.portfolio-item h5 {
+    font-size: 12px;
+    margin: 15px 0 10px 0;
+}
