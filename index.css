@@ -69,12 +69,42 @@
 .services .mobile {
     background-image: url(images/mobile3.png);
 }
+
 .services h3 {
-	font-size: 24px;
-	text-align: center;
-	margin-bottom: 10px;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 10px;
 }
+
 .services h5 {
-	font-size: 14px;
-	text-align: center;
+    font-size: 14px;
+    text-align: center;
+}
+
+.sub-header {
+    background: url(images/dashedseparator.png) center repeat-x;
+    clear: both;
+    height: 20px;
+    margin-bottom: 35px;
+}
+
+.sub-header h4 {
+    background: #f5f5f5;
+    font-size: 20px;
+    height: 20px;
+    padding-top: 4px;
+    margin-left: 35px;
+    width: 275px;
+}
+
+.portfolio-item {
+    border: 1px solid #ebebeb;
+    float: left;
+    margin-right: 26px;
+    margin-bottom: 25px;
+    width: 465px;
+}
+
+.portfolio-item:nth-child(2n+1) {
+    margin-right: 0;
 }
