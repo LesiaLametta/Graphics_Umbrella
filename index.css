@@ -1,8 +1,8 @@
 .rotator {
-	background: #9fc63f;
-	clear: both;
-	height: 415px;
-	position: relative;
+    background: #9fc63f;
+    clear: both;
+    height: 415px;
+    position: relative;
 }
 
 
@@ -13,3 +13,31 @@
     padding: 40px 0;
     text-align: center;
 }
+
+.services {
+    margin: 40px 0 50px 0;
+    overflow: hidden;
+}
+
+.services ul {}
+
+.services li {
+    float: left;
+    margin-right: 75px;
+}
+
+.services li:last-child {
+    margin-right: 0;
+}
+
+.services .disk-outer {
+    background: #fff;
+    border: 1px solid #dedede;
+    height: 178px;
+    margin-bottom: 18px;
+    width: 178px;
+}
+
+.services .disk-inner {}
+
+.services .disk-inner>.icon {}
