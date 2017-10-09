@@ -1,6 +1,15 @@
+.rotator {
+	background: #9fc63f;
+	clear: both;
+	height: 415px;
+	position: relative;
+}
+
+
+
 .content h2 {
-	background: url(images/dashedseparator.png) bottom right repeat-x;
-	font-size: 28px;
-	padding: 40px 0;
-	text-align: center;
+    background: url(images/dashedseparator.png) bottom right repeat-x;
+    font-size: 28px;
+    padding: 40px 0;
+    text-align: center;
 }
