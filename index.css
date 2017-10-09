@@ -127,3 +127,17 @@
     padding: 3px 10px;
     text-decoration: none;
 }
+
+.portfolio-item p {
+    margin-top: 15px;
+}
+
+.advertisers {
+    clear: both;
+}
+
+.advertisers li {
+    float: left;
+    height: 131px;
+    width: 160px;
+}
