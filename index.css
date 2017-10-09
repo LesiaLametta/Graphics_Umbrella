@@ -1,3 +1,6 @@
 .content h2 {
-	
+	background: url(images/dashedseparator.png) bottom right repeat-x;
+	font-size: 28px;
+	padding: 40px 0;
+	text-align: center;
 }
