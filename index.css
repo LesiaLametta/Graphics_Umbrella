@@ -16,6 +16,17 @@
     width: 60px;
 }
 
+.rotator .next {
+    background-image: url(images/forward.png);
+    display: block;
+    height: 60px;
+    right: 100px;
+    margin-top: -30px;
+    position: absolute;
+    top: 50%;
+    width: 60px;
+}
+
 
 .content h2 {
     background: url(images/dashedseparator.png) bottom right repeat-x;
