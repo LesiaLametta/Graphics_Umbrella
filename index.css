@@ -5,7 +5,7 @@
     position: relative;
 }
 
-.rotator .previous {
+.rotator .prev {
     background-image: url(images/backward.png);
     display: block;
     height: 60px;
