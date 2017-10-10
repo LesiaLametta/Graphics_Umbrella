@@ -27,6 +27,45 @@
     width: 60px;
 }
 
+.rotator .rotator-wrapper {
+    height: 420px;
+    margin: 0 auto;
+    width: 960px;
+    overflow: hidden;
+    position: relative;
+}
+
+.rotator ul {
+    position: absolute;
+    top: 0;
+    width: 2000em;
+}
+
+.rotator li {
+    float: left;
+    height: 420px;
+    width: 960px;
+    position: relative;
+}
+
+.slide0,
+.slide1,
+.slide2 {
+    background: url(images/layer-2.png) left center no-repeat;
+}
+
+.slide0 div,
+.slide1 div,
+.slide2 div {
+    color: #fff;
+    font-size: 25px;
+    line-height: 1.5;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 75px;
+    width: 400px;
+}
 
 .content h2 {
     background: url(images/dashedseparator.png) bottom right repeat-x;
