@@ -5,6 +5,16 @@
     position: relative;
 }
 
+.rotator .previous {
+    background-image: url(images/backward.png);
+    display: block;
+    height: 60px;
+    left: 100px;
+    margin-top: -30px;
+    position: absolute;
+    top: 50%;
+    width: 60px;
+}
 
 
 .content h2 {
