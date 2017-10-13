@@ -28,6 +28,7 @@ h4 span {
 
 
 
+
 /*===========
         Header
     ========*/
@@ -109,6 +110,7 @@ header nav {
 
 .footer p {
     margin-bottom: 25px;
+    width: 205px;
 }
 
 .social-links {}
@@ -123,6 +125,7 @@ header nav {
     display: block;
     height: 25px;
     width: 25px;
+    float: left;
 }
 
 .social-links .facebook {
@@ -148,6 +151,22 @@ header nav {
 .social-links .msn {
     background-image: url(images/msn.png);
 }
+
+.archives {
+    width: 220px;
+    height: 196px;
+    margin-left: 30px;
+}
+
+.archives li {
+    font-family: "Myriad Pro";
+    font-size: 13px;
+    padding-bottom: 2px;
+    margin-top: 5px;
+}
+
+
+
 
 .base-footer {
     background: #202020;
