@@ -33,6 +33,7 @@ h4 span {
 
 
 
+
 /*===========
         Header
     ========*/
@@ -104,7 +105,7 @@ header nav {
 .footer .footer-content>div {
     float: left;
     width: 40px;
-    width: 200px;
+    width: 217.5px;
 }
 
 .footer h5 {
@@ -224,12 +225,42 @@ header nav {
 }
 
 .Newsletter {
-    width: 220px;
+    width: 320px;
     height: 196px;
     margin-left: 30px;
 }
 
-.Newsletter h5 {}
+.Newsletter h5 {
+    margin-left: 12px;
+}
+
+#login input {
+    display: block;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    height: 30px;
+    width: 190px;
+    background: #F9F9F9;
+    text-align: left;
+    font-style: italic;
+    font-family: "Myriad Pro";
+    padding-left: 10px;
+    font-size: 14px;
+    color: #2C2C2C;
+}
+
+#login #subscribe-btn {
+    background: #7DAA30;
+    width: 100px;
+    height: 40px;
+    font-family: "Myriad Pro";
+    font-style: 14px;
+    text-align: center;
+    margin-left: 114px;
+    color: #E5E8D9;
+    border-style: none;
+    font-style: normal;
+}
 
 .base-footer {
     background: #202020;
