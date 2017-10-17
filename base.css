@@ -118,6 +118,7 @@ header nav {
     width: 205px;
     font-family: "Myriad Pro";
     font-size: 13px;
+    color: #2C2C2C;
 }
 
 .social-links {}
@@ -148,7 +149,7 @@ header nav {
 }
 
 .social-linls .vimeo {
-    background-image: url(images/vimeo.png);
+    background-image: url(images/vimeoo.png);
 }
 
 .social-links .dribble {
@@ -170,6 +171,7 @@ header nav {
     font-size: 13px;
     padding-bottom: 2px;
     margin-top: 5px;
+    color: #2C2C2C;
 }
 
 
@@ -190,6 +192,7 @@ header nav {
     font-size: 13px;
     font-family: "Myriad Pro";
     padding-top: 5px;
+    color: #2C2C2C;
 }
 
 .contact_us .phone img {
@@ -203,6 +206,7 @@ header nav {
     font-size: 13px;
     font-family: "Myriad Pro";
     padding-top: 8px;
+    color: #2C2C2C;
 }
 
 .contact_us .telephone img {
@@ -216,6 +220,7 @@ header nav {
     font-size: 13px;
     font-family: "Myriad Pro";
     padding-top: 10px;
+    color: #2C2C2C;
 }
 
 .Newsletter {
