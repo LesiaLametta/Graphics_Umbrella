@@ -2,6 +2,6 @@
 
 Simple Landing page tutorial 
 
-test 2
+Test 2
 
-<img src="Graphics_Umbrella/webtite_template.jpg" />
+![website_template](https://user-images.githubusercontent.com/29153070/31665622-5876c632-b341-11e7-9376-c147e8e50fc1.jpg)
