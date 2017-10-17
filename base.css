@@ -31,6 +31,8 @@ h4 span {
 
 
 
+
+
 /*===========
         Header
     ========*/
@@ -177,47 +179,43 @@ header nav {
     margin-left: 30px;
 }
 
-
-
-
-
-/*.contact_us li img {
-    float: center;
-    height: 20px;
-    width: 250x;
-    margin-right: 20px;
-    padding-bottom: 20px;
-    display: relative;
-    right: 20px;
-    
+.contact_us .envelope img {
+    float: left;
+    margin-right: 14px;
 }
 
-.contact_us h6 {
-    font-family: "Myriad Pro";
-    font-size: 13px;
-    display: relative;
-    right: 15px;
-    padding-top: 5px;
-    text-align: left;
-}*/
-
-.contact_us .iconsimg {
-    display: inline-block;
-    height: 10px;
-    width: 10px;
-    line-height: 25px;
-    position: center center;
-}
-
-.contact_us .et {
-    float: right;
+.contact_us .envelope h6 {
+    margin: 15px 0 10px 0;
     color: grey;
-    font-family: "Myriad Pro";
     font-size: 13px;
-    display: inline-block;
-    position: relative;
-    right: 20px;
-    padding-top: 4.5px;
+    font-family: "Myriad Pro";
+    padding-top: 5px;
+}
+
+.contact_us .phone img {
+    float: left;
+    margin-right: 20px;
+}
+
+.contact_us .phone h6 {
+    margin: 15px 0 10px 0;
+    color: grey;
+    font-size: 13px;
+    font-family: "Myriad Pro";
+    padding-top: 8px;
+}
+
+.contact_us .telephone img {
+    float: left;
+    margin-right: 20px;
+}
+
+.contact_us .telephone h6 {
+    margin: 15px 0 10px 0;
+    color: grey;
+    font-size: 13px;
+    font-family: "Myriad Pro";
+    padding-top: 10px;
 }
 
 .Newsletter {
