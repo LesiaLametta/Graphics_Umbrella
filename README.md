@@ -4,4 +4,4 @@ Simple Landing page tutorial
 
 test 2
 
-![alt text](http://url/Graghipc_Umbrella/website_template.jpg)
+<img src="Graphics_Umbrella/webtite_template.jpg" />
